@@ -16,7 +16,8 @@ function multiply(a,b) {
 }
 
 function inc(a) {
-  return a++;
+  a++;
+  return (a)
 }
 
 function dec(n) {
