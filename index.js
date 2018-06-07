@@ -19,3 +19,6 @@ function increments(a) {
   return a++;
 }
 
+function decrements(a) {
+  return a--;
+}
