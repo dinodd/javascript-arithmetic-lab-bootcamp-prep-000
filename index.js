@@ -15,10 +15,10 @@ function multiply(a,b) {
   return a * b;
 }
 
-function increments(a) {
+function inc(a) {
   return a++;
 }
 
-function decrements(a) {
+function dec(a) {
   return a--;
 }
