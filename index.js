@@ -17,11 +17,12 @@ function multiply(a,b) {
 
 function inc(a) {
   a++;
-  return (a)
+  return (a);
 }
 
-function dec(n) {
-  return n - 1;
+function dec(a) {
+  a--;
+  return(a);
 }
 
 function makeInt(n) {
